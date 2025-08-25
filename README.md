@@ -1,6 +1,6 @@
 # Toki - Organizador de Anime
 
-![Toki Logo](ruta-a-tu-logo.png)  
+![Toki Logo](assets/Logo/icon1.png)  
 *Organiza, sigue y descubre tus animes favoritos de manera intuitiva y rápida.*
 
 ---
@@ -49,9 +49,13 @@ Toki fue construida con un stack moderno y escalable:
 
 ## 🔗 Links
 
-- Play Store: https://play.google.com/store/apps/details?id=com.omarbonilla.TOKI_V3&hl=en
+- [Play Store](https://play.google.com/store/apps/details?id=com.omarbonilla.TOKI_V3&hl=en)
 
+- [QR](assets/QR/TokiQR.png) 
 ---
 
 ## 🎨 Capturas de Pantalla / GIFs
 
+[Screen1](assets/Screens//Frame%2034.png)
+[Screen2](assets/Screens/Frame%2035.png)
+[Screen3](assets/Screens/Frame%2036.png)

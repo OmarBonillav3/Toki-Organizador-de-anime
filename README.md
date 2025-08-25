@@ -51,11 +51,11 @@ Toki fue construida con un stack moderno y escalable:
 
 - [Play Store](https://play.google.com/store/apps/details?id=com.omarbonilla.TOKI_V3&hl=en)
 
-- [QR](assets/QR/TokiQR.png) 
+![QR](assets/QR/TokiQR.png) 
 ---
 
 ## 🎨 Capturas de Pantalla / GIFs
 
 [Screen1](assets/Screens//Frame%2034.png)
 [Screen2](assets/Screens/Frame%2035.png)
-[Screen3](assets/Screens/Frame%2036.png)
+[Screen3](assets/screens//Frame%2036.png)

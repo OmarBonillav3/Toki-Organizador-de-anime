@@ -56,6 +56,6 @@ Toki fue construida con un stack moderno y escalable:
 
 ## 🎨 Capturas de Pantalla / GIFs
 
-[Screen1](assets/Screens//Frame%2034.png)
-[Screen2](assets/Screens/Frame%2035.png)
-[Screen3](assets/screens//Frame%2036.png)
+![Screen1](assets/Screens//Frame%2034.png)
+![Screen2](assets/Screens/Frame%2035.png)
+![Screen3](assets/screens//Frame%2036.png)

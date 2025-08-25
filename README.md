@@ -40,16 +40,6 @@ Toki fue construida con un stack moderno y escalable:
 
 ---
 
-## 📝 Historia del Proyecto
-
-1. **Idea inicial**: mantener un registro personal de animes.  
-2. **Primer prototipo**: lista simple con React Native y AsyncStorage.  
-3. **Expansión**: integración de Firebase para sincronización entre dispositivos.  
-4. **Extensión de navegador**: agregar y actualizar animes desde Chrome directamente.  
-5. **Lanzamiento a Play Store**: app funcional, atractiva y lista para la comunidad.  
-
----
-
 ## 📈 Próximos pasos
 
 - Integrar la extensión de Chrome con funcionalidades avanzadas.  
